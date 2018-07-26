@@ -1,0 +1,22 @@
+{
+  "name": "d3-crumbs",
+  "version": "1.0.0",
+  "description": "d3-in-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhudc/d3-crumbs.git"
+  },
+  "author": "Prabhu DC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhudc/d3-crumbs/issues"
+  },
+  "homepage": "https://github.com/prabhudc/d3-crumbs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
